@@ -1,6 +1,6 @@
 <!--Introduction-->
-<h1 align="center">Hi 👋, I'm M Taufiq Permana S</h1>
-<h3 align="center">IT Support & Network Engineer Journey To Devops Engineer</h3>
+<h1 align="left">Hi 👋, I'm M Taufiq Permana S</h1>
+<h3 align="left">IT Support & Network Engineer Journey To Devops Engineer</h3>
 
 <!--View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
