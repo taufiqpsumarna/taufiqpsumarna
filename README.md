@@ -75,9 +75,14 @@
 
 <!-- My Stats-->
 ### My Stats:
-<p>
-<img align="center"src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en"alt="taufiqpsumarna" />
-<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" />
-</p>
+
+<table >
+<tbody>
+<tr>
+<td><img align="center"src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en"alt="taufiqpsumarna" /></td>
+<td><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" /></td>
+</tr>
+</tbody>
+</table>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna)](https://github.com/anuraghazra/github-readme-stats)
