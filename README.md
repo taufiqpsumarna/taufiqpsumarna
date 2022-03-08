@@ -1,8 +1,11 @@
+<!--Introduction-->
 <h1 align="center">Hi 👋, I'm M Taufiq Permana S</h1>
 <h3 align="center">IT Support & Network Engineer Journey To Devops Engineer</h3>
 
+<!--View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
 
+<!--My Status-->
 - 🔭 I’m currently working on **-**
 
 - 🌱 I’m currently learning **DevOps, Cloud, AWS, Network Security**
@@ -21,16 +24,52 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--Contact-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/code.png" alt="taufiqpsumarna" alt="taufiqpsumarna"/></a>
-<a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/linkedin.png" alt="taufiqpsumarna"/></a>
-<a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/stackoverflow.png" alt="15878247"/></a>
-<a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/facebook-new.png" alt="taufiqpsumarna"/></a>
-<a href="https://instagram.com/taufiq14s" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/instagram-new--v1" alt="taufiq14s"/></a>
+    <a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center"
+            src="https://img.icons8.com/fluency/search/32/code.png" alt="taufiqpsumarna" alt="taufiqpsumarna" /></a>
+    <a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center"
+            src="https://img.icons8.com/fluency/search/32/linkedin.png" alt="taufiqpsumarna" /></a>
+    <a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center"
+            src="https://img.icons8.com/fluency/search/32/stackoverflow.png" alt="15878247" /></a>
+    <a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center"
+            src="https://img.icons8.com/fluency/search/32/facebook-new.png" alt="taufiqpsumarna" /></a>
+    <a href="https://instagram.com/taufiq14s" target="blank"><img align="center"
+            src="https://img.icons8.com/fluency/search/32/instagram-new--v1.png" alt="taufiq14s" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<!--Skills-->
+<h3 align="left">Combat Tools:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/amazon-web-services.png" alt=aws/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/search/32/console.png" alt="bash" /> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/bootstrap.png" alt="bootstrap" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/css3.png" alt="css3" /> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/docker.png" alt="docker" /> </a> 
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/elasticsearch.png" alt="elasticsearch" /> </a> 
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/gatsbyjs.png" alt="gatsby" /> </a> 
+<a href="https://www.contentful.com/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_mLNhoV/logo/orig" alt="contentful" height="32" width="auto" /> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/google-cloud.png" alt="gcp" /> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/git.png" alt="git" /> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/gravana.png" alt="grafana" /> </a> 
+<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/ifttt.png" alt="ifttt" /> </a> 
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/kibana.png" alt="kibana"> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img  src="https://img.icons8.com/color/search/32/kubernetes.png" alt="kubernetes" /> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/linux.png" alt="linux" /> </a> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/maria-db.png" alt="mariadb" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/mongodb.png" alt="mongodb"></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/mysql-logo.png" alt="mysql" /> </a> 
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/nginx.png" alt="nginx" /> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/nodejs.png" alt="nodejs" /> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/adobe-photoshop--v1.png" alt="photoshop" /> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/php.png" alt="php" /> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/postgreesql.png" alt="postgresql" /> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/python--v1.png" alt="python" /> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/sass.png" alt="sass" /> </a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/selenium-test-automation.png" alt="selenium" /> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sqlite" height="32" width="auto"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en" alt="taufiqpsumarna" /></p>
+<!--Github Stats-->
+<p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" /> &nbsp; <img align="center"src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en"alt="taufiqpsumarna" /></p>
