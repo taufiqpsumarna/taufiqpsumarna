@@ -1,8 +1,8 @@
 <!--Introduction-->
-<h1 align="left">Hi 👋, I'm M Taufiq Permana S</h1>
-<h3 align="left">IT Support & Network Engineer Journey To Devops Engineer</h3>
+### Hi 👋, I'm M Taufiq Permana S
+#### IT Support & Network Engineer Journey To Devops Engineer
 
-<!--View Stat-->
+<!--Profile View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
 
 <!--My Status-->
@@ -20,13 +20,13 @@
 
 - 📫 How to reach me **taufiqpsumarna@gmail.com**
 
-### Blogs posts
+### Dev To posts
 <!-- BLOG-POST-LIST:START -->
 - [Test Post From Dev.To](https://dev.to/taufiqpsumarna/test-post-from-devto-36le)
 <!-- BLOG-POST-LIST:END -->
 
 <!--Contact-->
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
     <a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center"
             src="https://img.icons8.com/fluency/search/32/code.png" alt="taufiqpsumarna" alt="taufiqpsumarna" /></a>
@@ -41,7 +41,7 @@
 </p>
 
 <!--Skills-->
-<h3 align="left">Combat Tools:</h3>
+### Combat Tools:
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/amazon-web-services.png" alt=aws/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/search/32/console.png" alt="bash" /> </a> 
@@ -73,15 +73,8 @@
 </p>
 
 
-<!--Wakatime-->
+<!-- My Stats-->
+### My Stats:
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en"alt="taufiqpsumarna" />
+<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" />
 [![Taufiq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--Github Stats-->
-<table>
-<tbody>
-<tr>
-<td><img align="center"src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en"alt="taufiqpsumarna" /></td>
-<td><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" /><</td>
-</tr>
-</tbody>
-</table>
