@@ -53,7 +53,7 @@
 <a href="https://www.contentful.com/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_mLNhoV/logo/orig" alt="contentful" height="32" width="auto" /> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/google-cloud.png" alt="gcp" /> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/git.png" alt="git" /> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/gravana.png" alt="grafana" /> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/grafana.png" alt="grafana" /> </a> 
 <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/ifttt.png" alt="ifttt" /> </a> 
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/kibana.png" alt="kibana"> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img  src="https://img.icons8.com/color/search/32/kubernetes.png" alt="kubernetes" /> </a> 
