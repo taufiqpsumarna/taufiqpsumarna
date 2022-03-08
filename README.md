@@ -1,5 +1,5 @@
 <!--Introduction-->
-## Hi 👋, I'm Taufiq
+# Hi 👋, I'm Taufiq
 ### Journey from Network Engineer > IT Support > DevOps Engineer
 
 <!--Profile View Stat-->
