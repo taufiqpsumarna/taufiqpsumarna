@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/dev-brands.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/linkedin-brands.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/stack-overflow-brands.svg" alt="15878247" height="30" width="40" /></a>
-<a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/facebook-square-brands.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
-<a href="https://instagram.com/taufiq14s" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/instagram-square-brands.svg" alt="taufiq14s" height="30" width="40" /></a>
+<a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/code.png" alt="taufiqpsumarna" height="30" width="40" alt="taufiqpsumarna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/linkedin.png" alt="taufiqpsumarna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/stackoverflow.png" alt="15878247" height="30" width="40" /></a>
+<a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/facebook-new.png" alt="taufiqpsumarna" height="30" width="40" /></a>
+<a href="https://instagram.com/taufiq14s" target="blank"><img align="center" src="https://img.icons8.com/fluency/search/48/instagram-new--v1" alt="taufiq14s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
