@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Computer Networking, IT Infrastructur, etc**
 
-- 📫 How to reach me **taufiqpsumarna.my.id**
+- 📫 How to reach me **taufiqpsumarna@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15878247" height="30" width="40" /></a>
-<a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
-<a href="https://instagram.com/taufiq14s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taufiq14s" height="30" width="40" /></a>
+<a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/dev-brands.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/linkedin-brands.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/stack-overflow-brands.svg" alt="15878247" height="30" width="40" /></a>
+<a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/facebook-square-brands.svg" alt="taufiqpsumarna" height="30" width="40" /></a>
+<a href="https://instagram.com/taufiq14s" target="blank"><img align="center" src="https://raw.githubusercontent.com/taufiqpsumarna/taufiqpsumarna/main/icons/instagram-square-brands.svg" alt="taufiq14s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
