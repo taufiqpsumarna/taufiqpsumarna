@@ -20,7 +20,7 @@
 
 - ✉️ How to reach me ? [send me message from linkedin](https://linkedin.com/in/taufiqpsumarna)
 
-### Dev To posts
+### Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [Test Post From Dev.To](https://dev.to/taufiqpsumarna/test-post-from-devto-36le)
 <!-- BLOG-POST-LIST:END -->
