@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--Contact-->
-### Connect with me:
+### Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center"
             src="https://img.icons8.com/fluency/search/32/linkedin.png" alt="linkedin:taufiqpsumarna" /></a>
@@ -41,7 +41,7 @@
 </p>
 
 <!--Skills-->
-### Combat Tools:
+### Combat Tools :
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/amazon-web-services.png" alt=aws/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/search/32/console.png" alt="bash" /> </a> 
@@ -73,17 +73,19 @@
 </p>
 
 
-<!-- Ngoding's Time-->
+<!-- My Stats -->
 
-### Ngoding's Time:
+### Commit Stats :
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" /> <br>
+
+
+### Ngoding's Time :
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
-</p>
 
+### Most Used Language :
 
-### Most Used Language
-<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=swift" alt="Top Langs"/> <br>
 </p>
