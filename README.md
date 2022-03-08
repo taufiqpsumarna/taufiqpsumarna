@@ -5,10 +5,10 @@
 <!--Profile View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
 
-<!--My Status-->
+<!--Description-->
 - 🔭 I’m currently working on **-**
 
-- 🌱 I’m currently learning **DevOps, Cloud, AWS, Network Security**
+- 🌱 I’m currently learning **DevOps And Network Security**
 
 - 👯 I’m looking to collaborate on **-**
 
@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.taufiqpsumarna.my.id/](https://portfolio.taufiqpsumarna.my.id/)
 
-- 💬 Ask me about **Computer Networking, IT Infrastructur, etc**
+- 💬 Ask me about **Computer Networking, IT Infrastructur, Network Security etc**
 
-- 📫 How to reach me **taufiqpsumarna@gmail.com**
+- ✉️ How to reach me ? [send me message from linkedin](https://linkedin.com/in/taufiqpsumarna)
 
 ### Dev To posts
 <!-- BLOG-POST-LIST:START -->
