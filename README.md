@@ -72,6 +72,10 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sqlite" height="32" width="auto"/> </a>
 </p>
 
+
+<!--Wakatime-->
+[![Taufiq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--Github Stats-->
 <table>
 <tbody>
