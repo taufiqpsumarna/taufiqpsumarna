@@ -1,6 +1,6 @@
 <!--Introduction-->
-### Hi 👋, I'm M Taufiq Permana S
-#### IT Support & Network Engineer Journey To Devops Engineer
+## Hi 👋, I'm Taufiq
+### Journey from Network Engineer > IT Support > DevOps Engineer
 
 <!--Profile View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
