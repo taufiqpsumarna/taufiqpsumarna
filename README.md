@@ -73,16 +73,17 @@
 </p>
 
 
-<!-- My Stats-->
-### My Stats:
+<!-- Ngoding's Time-->
 
-<table >
-<tbody>
-<tr>
-<td><img align="center"src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en"alt="taufiqpsumarna" /></td>
-<td><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact" alt="taufiqpsumarna" /></td>
-</tr>
-</tbody>
-</table>
+### Ngoding's Time:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
+</p>
+
+
+### Most Used Language
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=swift" alt="Top Langs"/> <br>
+</p>
