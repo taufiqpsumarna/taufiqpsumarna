@@ -28,16 +28,16 @@
 <!--Contact-->
 ### Connect with me:
 <p align="left">
+<a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center"
+            src="https://img.icons8.com/fluency/search/32/linkedin.png" alt="linkedin:taufiqpsumarna" /></a>
     <a href="https://dev.to/taufiqpsumarna" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/search/32/code.png" alt="taufiqpsumarna" alt="taufiqpsumarna" /></a>
-    <a href="https://linkedin.com/in/taufiqpsumarna" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/search/32/linkedin.png" alt="taufiqpsumarna" /></a>
+            src="https://img.icons8.com/fluency/search/32/code.png" alt="dev.to:taufiqpsumarna" alt="taufiqpsumarna" /></a>
     <a href="https://stackoverflow.com/users/15878247" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/search/32/stackoverflow.png" alt="15878247" /></a>
+            src="https://img.icons8.com/fluency/search/32/stackoverflow.png" alt="stackoverflow:15878247" /></a>
     <a href="https://fb.com/taufiqpsumarna" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/search/32/facebook-new.png" alt="taufiqpsumarna" /></a>
+            src="https://img.icons8.com/fluency/search/32/facebook-new.png" alt="facebook:taufiqpsumarna" /></a>
     <a href="https://instagram.com/taufiq14s" target="blank"><img align="center"
-            src="https://img.icons8.com/fluency/search/32/instagram-new--v1.png" alt="taufiq14s" /></a>
+            src="https://img.icons8.com/fluency/search/32/instagram-new--v1.png" alt="instagram:taufiq14s" /></a>
 </p>
 
 <!--Skills-->
