@@ -6,15 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
 
 <!--Description-->
-- 🔭 I’m currently working on **-**
+- 🔭 I’m currently working on **IT Support & Network Engineer**
 
 - 🌱 I’m currently learning **DevOps And Network Security**
 
-- 👯 I’m looking to collaborate on **-**
-
-- 🤝 I’m looking for help with **-**
-
-- 👨‍💻 All of my projects are available at [https://portfolio.taufiqpsumarna.my.id/](https://portfolio.taufiqpsumarna.my.id/)
+- 👨‍💻 All of my projects are available at [https://about.taufiqpsumarna.my.id/](https://about.taufiqpsumarna.my.id/)
 
 - 💬 Ask me about **Computer Networking, IT Infrastructur, Network Security etc**
 
