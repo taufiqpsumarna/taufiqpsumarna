@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps And Network Security**
 
-- 👨‍💻 All of my projects are available at [https://about.taufiqpsumarna.my.id/](https://about.taufiqpsumarna.my.id/)
+- 👨‍💻 All of my projects are available at [https://taufiqpsumarna.my.id/](https://taufiqpsumarna.my.id/)
 
 - 💬 Ask me about **Computer Networking, IT Infrastructur, Network Security etc**
 
