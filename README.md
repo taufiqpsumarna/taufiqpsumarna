@@ -1,7 +1,7 @@
 <!--Introduction-->
 # Hi 👋, I'm Taufiq
-### Journey from Network Engineer > IT Support > DevOps Engineer
-#### [UNDER DEVELOPMENT]
+### Keep Calm And Do Something Great
+#### [THIS PROFILE IS UNDER DEVELOPMENT]
 <!--Profile View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **DevOps And Network Security**
 
-- 👨‍💻 All of my projects are available at [https://taufiqpsumarna.my.id/](https://taufiqpsumarna.my.id/)
+- 👨‍💻 You can find links related to me on [https://taufiqpsumarna.my.id/](https://taufiqpsumarna.my.id/)
 
-- 💬 Ask me about **Computer Networking, IT Infrastructur, Network Security etc**
+- 💬 Ask me about **Computer Networking, IT Infrastructure, Network Security etc**
 
 - ✉️ How to reach me ? [send me message from linkedin](https://linkedin.com/in/taufiqpsumarna)
 
