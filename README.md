@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **DevOps And Network Security**
 
-- 👨‍💻 You can find links related to me on [https://taufiqpsumarna.my.id/](https://taufiqpsumarna.my.id/)
+- 👨‍💻 You can find links related to me <a href="https://taufiqpsumarna.my.id/" target="blank"> here </a>
 
 - 💬 Ask me about **Computer Networking, IT Infrastructure, Network Security etc**
 
-- ✉️ How to reach me ? [send me message from linkedin](https://linkedin.com/in/taufiqpsumarna)
+- ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="blank"> DM on linkedin </a>
 
 ### Blog Post
 <!-- BLOG-POST-LIST:START -->
