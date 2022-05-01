@@ -32,7 +32,7 @@
 
 <!--Skills-->
 ### Tools :
-<p align="left"> 
+<!-- <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/amazon-web-services.png" alt=aws/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/search/32/console.png" alt="bash" /> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/bootstrap.png" alt="bootstrap" /> </a>
@@ -60,7 +60,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/sass.png" alt="sass" /> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/selenium-test-automation.png" alt="selenium" /> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sqlite" height="32" width="auto"/> </a>
-</p>
+</p> -->
 
 
 <!-- My Stats -->
@@ -71,7 +71,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" /> <br>
 
 
-### Nguli Time :
+### Oprek Time :
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
 
