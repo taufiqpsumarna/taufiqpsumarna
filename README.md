@@ -22,13 +22,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--Contact-->
+<!--
 ### Connect with me :
-<p align="left">
+ <p align="left">
 <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank"><img align="center"
             src="https://img.icons8.com/fluency/search/32/linkedin.png" alt="linkedin:taufiqpsumarna" /></a>
     <a href="https://dev.to/taufiqpsumarna" target="_blank"><img align="center"
             src="https://img.icons8.com/fluency/search/32/code.png" alt="dev.to:taufiqpsumarna" alt="taufiqpsumarna" /></a>
-</p>
+</p> -->
 
 <!--Skills-->
 ### Tools :
