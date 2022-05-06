@@ -16,10 +16,15 @@
 
 - ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank" rel="noopener"> DM me at linkedin </a>
 
-### Blog Post
-<!-- BLOG-POST-LIST:START -->
+### Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+
+<!-- MEDIUM-STORY-LIST:END -->
+
+### Dev To Post
+<!-- DEVTO-POST-LIST:START -->
 - [Test Post From Dev.To](https://dev.to/taufiqpsumarna/test-post-from-devto-36le)
-<!-- BLOG-POST-LIST:END -->
+<!-- DEVTO-POST-LIST:END -->
 
 <!--Contact-->
 <!--
