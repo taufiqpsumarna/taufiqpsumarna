@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **DevOps And Network Security**
 
-- 👨‍💻 You can find links related to me <a href="https://taufiqpsumarna.my.id/" target="_blank" rel="noopener"> here </a>
+- 👨‍💻 You can find links related to me <a href="https://taufiqpsumarna.my.id/" target="_blank" rel="noopener"> Here </a>
 
-- 💬 Ask me about **Computer Networking, IT Infrastructure, Network Security etc**
+- 💬 Ask me about **Computer Networking, IT Infrastructure, Network Security, PC Building etc**
 
-- ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank" rel="noopener"> DM me at linkedin </a>
+- ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank" rel="noopener"> Send me message on linkedin </a>
 
 ### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
@@ -32,8 +32,8 @@
 </p> -->
 
 <!--Skills-->
-### Tools :
-<!-- <p align="left"> 
+<!-- ### Tools :
+<p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/amazon-web-services.png" alt=aws/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/search/32/console.png" alt="bash" /> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/search/32/bootstrap.png" alt="bootstrap" /> </a>
@@ -72,7 +72,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" /> <br>
 
 
-### Oprek Time :
+### Ngoprek Time :
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
 
