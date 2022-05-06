@@ -18,6 +18,8 @@
 
 ### Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Memanfaatkan Cahaya LED untuk jaringan internet](https://medium.com/@taufiqpsumarna/memanfaatkan-cahaya-led-untuk-jaringan-internet-d539de9583a5?source=rss-40f27c1248c3------2)
+- [Masih Muda ? Lakukan Hal Ini Agar Tidak Menyesal](https://medium.com/@taufiqpsumarna/masih-muda-lakukan-hal-ini-agar-tidak-menyesal-8c9bad816396?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### Dev To Post
