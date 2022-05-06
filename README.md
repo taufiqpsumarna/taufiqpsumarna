@@ -16,7 +16,7 @@
 
 - ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank" rel="noopener"> DM me at linkedin </a>
 
-### Latest Medium Story
+### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
 
