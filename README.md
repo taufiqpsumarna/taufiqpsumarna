@@ -18,7 +18,7 @@
 
 ### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
-- [Integrasi Sonarqube Dengan Jenkins Pipeline](https://medium.com/@taufiqpsumarna/integrasi-sonarqube-kedalam-jenkins-pipeline-3cb3de98fdbe?source=rss-40f27c1248c3------2)
+- [Integrasi Sonarqube Kedalam Jenkins Pipeline](https://medium.com/@taufiqpsumarna/integrasi-sonarqube-kedalam-jenkins-pipeline-3cb3de98fdbe?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--Contact-->
