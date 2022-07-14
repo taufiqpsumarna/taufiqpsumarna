@@ -18,8 +18,6 @@
 
 ### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mengelola Password List Dengan Passbolt](https://medium.com/@taufiqpsumarna/mengelola-password-list-dengan-passbolt-815e2a0105f1?source=rss-40f27c1248c3------2)
-- [Integrasi Sonarqube Dengan Jenkins Pipeline](https://medium.com/@taufiqpsumarna/integrasi-sonarqube-kedalam-jenkins-pipeline-3cb3de98fdbe?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--Contact-->
