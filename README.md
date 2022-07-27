@@ -1,12 +1,11 @@
 <!--Introduction-->
 # Hi 👋, I'm Taufiq
 ### Keep Calm And Do Something Great
-#### [THIS PROFILE IS STILL IN DEVELOPMENT]
 <!--Profile View Stat-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqpsumarna" /> </p>
 
 <!--Description-->
-- 🔭 I’m currently working on **IT Support & Network Engineer**
+- 🔭 I’m currently working on **DevOps Engineer** at PT. IDStar Cipta Teknologi
 
 - 🌱 I’m currently learning **DevOps And Network Security**
 
