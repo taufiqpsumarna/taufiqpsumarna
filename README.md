@@ -75,7 +75,7 @@
 
 ### Ngoprek Time :
 
-#<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
 
 ### Most Used Language :
 
