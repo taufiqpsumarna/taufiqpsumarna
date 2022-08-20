@@ -17,6 +17,7 @@
 
 ### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
+- [Linux Server System Audit Using Cisofy Lynis](https://medium.com/@taufiqpsumarna/linux-server-system-audit-using-cisofy-lynis-29eb0e71ba61?source=rss-40f27c1248c3------2)
 - [8 Tips Server Security Hardening](https://medium.com/@taufiqpsumarna/8-tips-server-security-hardening-8e8662e78ef3?source=rss-40f27c1248c3------2)
 - [Monitoring Website Menggunakan Uptime Kuma “Uptime Robot” Alternative](https://medium.com/@taufiqpsumarna/monitoring-website-menggunakan-uptime-kuma-uptime-robot-alternative-f58a102a7222?source=rss-40f27c1248c3------2)
 - [Mengelola Password List Dengan Passbolt](https://medium.com/@taufiqpsumarna/mengelola-password-list-dengan-passbolt-815e2a0105f1?source=rss-40f27c1248c3------2)
