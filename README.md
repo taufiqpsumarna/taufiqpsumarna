@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Computer Networking, IT Infrastructure, Network Security, PC Building etc**
 
-- ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank" rel="noopener"> Send me message on linkedin </a>
+- ✉️ How to reach me ? <a href="https://linkedin.com/in/taufiqpsumarna" target="_blank" rel="noopener"> Send me message via linkedin </a>
 
 ### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
