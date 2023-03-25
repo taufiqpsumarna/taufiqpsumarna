@@ -17,7 +17,7 @@
 
 ### Latest Medium Story :
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mini Proyek: Gitlab CI/CD Pipeline For React Application | Part1](https://medium.com/@taufiqpsumarna/mini-proyek-gitlab-ci-cd-pipeline-for-react-application-part1-98e3499e77ad?source=rss-40f27c1248c3------2)
+- [Mini Project: Gitlab CI/CD Pipeline For React Application | Part1](https://medium.com/@taufiqpsumarna/mini-proyek-gitlab-ci-cd-pipeline-for-react-application-part1-98e3499e77ad?source=rss-40f27c1248c3------2)
 - [Linux Server System Audit Using Cisofy Lynis](https://medium.com/@taufiqpsumarna/linux-server-system-audit-using-cisofy-lynis-29eb0e71ba61?source=rss-40f27c1248c3------2)
 - [8 Tips Server Security Hardening](https://medium.com/@taufiqpsumarna/8-tips-server-security-hardening-8e8662e78ef3?source=rss-40f27c1248c3------2)
 - [Monitoring Website Menggunakan Uptime Kuma “Uptime Robot” Alternative](https://medium.com/@taufiqpsumarna/monitoring-website-menggunakan-uptime-kuma-uptime-robot-alternative-f58a102a7222?source=rss-40f27c1248c3------2)
