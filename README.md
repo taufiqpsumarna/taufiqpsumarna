@@ -69,17 +69,12 @@
 
 <!-- My Stats -->
 
-### Commit Stats :
+### Commit Stats & Wakatime :
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" /> <br>
-
-
-### Ngoprek Time :
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=taufiqpsumarna&theme=swift" alt="Wakatime">
 
 ### Most Used Language :
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=swift" alt="Top Langs"/> <br>
 </p>
