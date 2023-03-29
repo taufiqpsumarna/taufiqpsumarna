@@ -1,6 +1,6 @@
 
 <h2 align="left" id="profile-tech">:wave: Hello there! I'm Taufiq</h2>
-<h3 align="left">I am a DevOps Engineer, Start career from IT Support, Sysadmin and Network Engineer</i></h3>
+<h3 align="left">I am a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds.</i></h2>
 
 ```bash
 #!/bin/bash
