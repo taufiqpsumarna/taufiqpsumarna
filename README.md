@@ -34,7 +34,7 @@ fi
 
 - :office: &nbsp;I'm currently working at **[PT. IDStar Cipta Teknologi]**
 - :seedling: &nbsp;I’m currently learning **Cloud Infrastructures and DevOps related things**
-- :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS** and **Home-labbing a.k.a Selfhosted**
+- :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS** and **Home-labbing a.k.a Self-Hosted Stuff**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :incoming_envelope: &nbsp;Connect with me on **[LinkedIn]**
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
@@ -196,9 +196,9 @@ fi
 
 <!--Credits-->
  ### Credit Notes
- - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:.
- - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:.
- - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:.
+ - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
+ - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:
+ - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:
  
   
 <!---Links -->
