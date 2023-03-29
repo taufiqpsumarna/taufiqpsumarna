@@ -57,14 +57,17 @@ fi
 > Operating System, Tools, languages, and other things that I :love: to work with.
 
 ### Cloud Platform
+<table>
 <td bgcolor="white">
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 </td>
+</table>
 
 ## Development Tools
+<table>
 <td bgcolor="white">
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
@@ -75,15 +78,19 @@ fi
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </td>
+</table>
 
 ### Operating System
+<table>
 <td bgcolor="white">
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />          
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
 </td>
+</table>  
 
 ### Server Software Packages
+<table>
 <td bgcolor="white">
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
@@ -91,6 +98,7 @@ fi
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </td>
+</table>
 
 <h2 align="left" id="profile-stats">Github Stats</h2>
 
