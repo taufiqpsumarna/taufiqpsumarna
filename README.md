@@ -1,5 +1,7 @@
-<h1 align="left" id="profile-title">:wave: Hello there! I'm Taufiq</h1>
-<h3 align="left">I am a DevOps Engineer - started career from IT Support, Sysadmin and Network Engineer</h3>
+
+<h2 align="left" id="profile-tech">:wave: Hello there! I'm Taufiq</h2>
+<h3 align="left">I am a DevOps Engineer, Start career from IT Support, Sysadmin and Network Engineer</i></h3>
+
 
 <p align="left">
   <a href="https://github.com/taufiqpsumarna/taufiqpsumarna">
@@ -22,11 +24,26 @@
 
 - :office: &nbsp;I'm currently working at **[PT. IDStar Cipta Teknologi]**
 - :seedling: &nbsp;I’m currently learning **Cloud Infrastructures and DevOps related things**
-- :speech_balloon: &nbsp;I like to talk about **Automation**, **Home-labbing a.k.a Selfhosted**, and **OSS**
+- :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS** and **Home-labbing a.k.a Selfhosted**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :letter: &nbsp;Connect with me on **[LinkedIn]**
+- :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
+- :bookmark: &nbsp;Or just visit my **[My Homepage]**
 
 <br>
+
+```bash
+#!/bin/bash
+checkUser= /bin/bash cat /etc/passwd | grep "you"
+userName= You
+
+if command [!$checkUser | grep $userName] then;
+  echo "👋 Hello there! I'm Taufiq"
+  echo "I am a DevOps Engineer - started career from IT Support, Sysadmin and Network Engineer"
+else 
+  echo "User $you is already exist!"
+fi
+```
 
 <h2 align="left" id="profile-tech">My Favorite Tech</h2>
 
@@ -173,3 +190,5 @@
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [issues page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "taufiqpsumarna/issues"
 [linkedin]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
+[My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Portfolio"
+[My Homepage]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Homepage"
