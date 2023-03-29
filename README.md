@@ -1,5 +1,5 @@
 
-<h2 align="left" id="profile-tech">:wave: Hello there! I'm Taufiq</h2>
+<h2 align="left" id="profile-tech">:nerd_face: :wave: Hello there! I'm Taufiq</h2>
 <h3 align="left">I am a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds.</i></h2>
 
 ```bash
@@ -195,9 +195,9 @@ fi
 
 <!--Credits-->
  ### Credit Notes
- - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile.
- - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card.
- - Using this [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge.
+ - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:.
+ - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:.
+ - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:.
  
   
 <!---Links -->
