@@ -56,119 +56,55 @@ fi
 
 > Operating System, Tools, languages, and other things that I :love: to work with.
 
+### Cloud Platform
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+
+## Development Tools
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+### Operating System
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />          
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
+
+### Server Software Packages
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=42 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
+<h2 align="left" id="profile-stats">Github Stats</h2>
+
 <table>
+<thead>
   <tr>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
+    <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
     </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
+    <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
     </td>
   </tr>
+</thead>
+<tbody>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#profile-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#profile-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#profile-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#profile-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#profile-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+    <td colspan="2" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=transparent" alt="Summary" />
     </td>
   </tr>
+</tbody>
 </table>
 
 <!--Github Stats-->
