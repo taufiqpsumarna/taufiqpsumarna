@@ -4,10 +4,10 @@
 <!--Bash Script-->
 ```bash
 #!/bin/bash
-checkUser= /bin/bash cat /etc/passwd | grep "you"
+checkUser= /bin/bash cat /etc/passwd | grep you
 userName= You
 
-if command [!$checkUser | grep $userName] then;
+if command [!$checkUser | grep $userName] then
   echo "👋 Hello there! I'm Taufiq"
   echo "I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds"
 else 
