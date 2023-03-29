@@ -194,7 +194,7 @@ fi
 </table>
 
 <!--Credits-->
- ### Notes
+ ### Credit Notes
  - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile.
  - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card.
  - Using this [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge.
