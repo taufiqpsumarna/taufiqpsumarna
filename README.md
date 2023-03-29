@@ -1,5 +1,5 @@
 
-<h2 align="left" id="profile-tech">:nerd_face: :wave: Hello there! I'm Taufiq</h2>
+<h2 align="left" id="profile-tech">:nerd_face::wave: Hello there! I'm Taufiq</h2>
 <h3 align="left">I am a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds.</i></h2>
 
 ```bash
