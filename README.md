@@ -31,7 +31,7 @@ fi
 </p>
 
 <a href="#profile-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=transparent" alt="Summary" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[PT. IDStar Cipta Teknologi]**
@@ -175,17 +175,17 @@ fi
 <thead>
   <tr>
     <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=swift" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
     </td>
     <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=swift" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=swift" alt="Summary" />
+    <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=transparent" alt="Summary" />
     </td>
   </tr>
 </tbody>
