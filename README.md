@@ -38,7 +38,7 @@ fi
 - :seedling: &nbsp;I’m currently learning **Cloud Infrastructures and DevOps related things**
 - :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS** and **Home-labbing a.k.a Selfhosted**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
-- :letter: &nbsp;Connect with me on **[LinkedIn]**
+- :incoming_envelope: &nbsp;Connect with me on **[LinkedIn]**
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
 - :bookmark: &nbsp;Or just visit my **[My Homepage]**
 
