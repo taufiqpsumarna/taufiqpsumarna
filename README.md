@@ -38,7 +38,7 @@ fi
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :incoming_envelope: &nbsp;Connect with me on **[LinkedIn]**
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
-- :bookmark: &nbsp;Or just visit my **[My Homepage]**
+- :bookmark: &nbsp;Or just visit my **[My Landingpage]**
 
 
 ## Latest Medium Story
@@ -157,4 +157,4 @@ fi
 [issues page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "taufiqpsumarna/issues"
 [linkedin]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
 [My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Portfolio"
-[My Homepage]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Homepage"
+[My Homepage]: https://taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Landingpage"
