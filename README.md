@@ -11,7 +11,7 @@ if command [!$checkUser | grep $userName] then
   echo "👋 Hello there! I'm Taufiq"
   echo "I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds"
 else 
-  echo "Hi $you maybe we already know each other!"
+  echo "Hi $userName maybe we already know each other!"
 fi
 ```
 <!--Profile Badge-->
