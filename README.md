@@ -4,7 +4,7 @@
 <!--Bash Script-->
 ```bash
 #!/bin/bash
-checkUser= /bin/bash cat /etc/passwd | grep you
+checkUser= cat /etc/passwd | grep you
 userName= You
 
 if command [!$checkUser | grep $userName] then
