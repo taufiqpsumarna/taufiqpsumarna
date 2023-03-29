@@ -193,6 +193,13 @@ fi
 </tbody>
 </table>
 
+<!--Credits-->
+ ### Notes
+ - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile.
+ - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card.
+ - Using this [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge.
+ 
+  
 <!---Links -->
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [issues page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "taufiqpsumarna/issues"
