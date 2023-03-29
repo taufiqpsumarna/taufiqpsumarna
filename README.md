@@ -122,29 +122,6 @@ fi
 </tbody>
 </table>
 
-<!--Github Stats-->
-<h2 align="left" id="profile-stats">Github Stats</h2>
-
-<table>
-<thead>
-  <tr>
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
-    </td>
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=transparent" alt="Summary" />
-    </td>
-  </tr>
-</tbody>
-</table>
-
 <!--Credits-->
  ### Credit Notes
  - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
