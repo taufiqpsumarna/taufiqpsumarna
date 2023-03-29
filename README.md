@@ -2,6 +2,18 @@
 <h2 align="left" id="profile-tech">:wave: Hello there! I'm Taufiq</h2>
 <h3 align="left">I am a DevOps Engineer, Start career from IT Support, Sysadmin and Network Engineer</i></h3>
 
+```bash
+#!/bin/bash
+checkUser= /bin/bash cat /etc/passwd | grep "you"
+userName= You
+
+if command [!$checkUser | grep $userName] then;
+  echo "👋 Hello there! I'm Taufiq"
+  echo "I am a DevOps Engineer - started career from IT Support, Sysadmin and Network Engineer"
+else 
+  echo "User $you is already exist!"
+fi
+```
 
 <p align="left">
   <a href="https://github.com/taufiqpsumarna/taufiqpsumarna">
@@ -31,19 +43,12 @@
 - :bookmark: &nbsp;Or just visit my **[My Homepage]**
 
 <br>
+<h2 align="left" id="profile-medium-story">Latest Medium Story</h2>
+<!-- MEDIUM-STORY-LIST:START -->
 
-```bash
-#!/bin/bash
-checkUser= /bin/bash cat /etc/passwd | grep "you"
-userName= You
+<!-- MEDIUM-STORY-LIST:END -->
+<br>
 
-if command [!$checkUser | grep $userName] then;
-  echo "👋 Hello there! I'm Taufiq"
-  echo "I am a DevOps Engineer - started career from IT Support, Sysadmin and Network Engineer"
-else 
-  echo "User $you is already exist!"
-fi
-```
 
 <h2 align="left" id="profile-tech">My Favorite Tech</h2>
 
