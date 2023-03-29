@@ -1,7 +1,7 @@
+# :nerd_face::wave: Hello there! I'm Taufiq
+### I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds
 
-<h1 align="left" id="profile-tech">:nerd_face::wave: Hello there! I'm Taufiq</h2>
-<h3 align="left">I am a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds.</i></h2>
-
+<!--Bash Script-->
 ```bash
 #!/bin/bash
 checkUser= /bin/bash cat /etc/passwd | grep "you"
@@ -14,7 +14,7 @@ else
   echo "User $you is already exist!"
 fi
 ```
-
+<!--Profile Badge-->
 <p align="left">
   <a href="https://github.com/taufiqpsumarna/taufiqpsumarna">
     <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna" alt="page views" />
@@ -51,7 +51,7 @@ fi
 - [Monitoring Website Menggunakan Uptime Kuma “Uptime Robot” Alternative](https://medium.com/@taufiqpsumarna/monitoring-website-menggunakan-uptime-kuma-uptime-robot-alternative-f58a102a7222?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-
+<!--Favorite Tech-->
 <h2 align="left" id="profile-tech">My Favorite Tech</h2>
 
 > Operating System, Tools, languages, and other things that I :love: to work with.
@@ -171,6 +171,7 @@ fi
   </tr>
 </table>
 
+<!--Github Stats-->
 <h2 align="left" id="profile-stats">Github Stats</h2>
 
 <table>
