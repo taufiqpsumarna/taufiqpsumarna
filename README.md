@@ -31,8 +31,6 @@ fi
 </p>
 
 <a href="#profile-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=transparent" alt="Summary" align="right" />
-</a>
 
 - :office: &nbsp;I'm currently working at **[PT. IDStar Cipta Teknologi]**
 - :seedling: &nbsp;I’m currently learning **Cloud Infrastructures and DevOps related things**
