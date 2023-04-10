@@ -38,7 +38,7 @@ fi
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :incoming_envelope: &nbsp;Connect with me on **[LinkedIn]**
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
-- :bookmark: &nbsp;Or just visit my **[My Landingpage]**
+- :bookmark: &nbsp;Or just visit my **[My Homepage]**
 
 
 ## Latest Medium Story
