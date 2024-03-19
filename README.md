@@ -44,11 +44,11 @@ fi
 ## Latest Medium Story
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [DevSecOps: Securing Gitlab CI/CD Pipeline](https://medium.com/@taufiqpsumarna/devsecops-securing-gitlab-ci-cd-pipeline-7f4d38d70dd3?source=rss-40f27c1248c3------2)
 - [How to saving Gitlab runner cost up to 90% using AWS EC2 Spot instance](https://medium.com/@taufiqpsumarna/how-to-saving-gitlab-runner-cost-up-to-90-using-aws-ec2-spot-instance-e9999d08b866?source=rss-40f27c1248c3------2)
 - [Run VS Code On Browser](https://medium.com/@taufiqpsumarna/run-vs-code-on-browser-b4320cc9d375?source=rss-40f27c1248c3------2)
 - [Mini Project: Gitlab CI/CD Pipeline For React Application | Part3](https://medium.com/@taufiqpsumarna/mini-project-gitlab-ci-cd-pipeline-for-react-application-part3-f4657bc4de47?source=rss-40f27c1248c3------2)
 - [Mini Project: Gitlab CI/CD Pipeline For React Application | Part2](https://medium.com/@taufiqpsumarna/mini-project-gitlab-ci-cd-pipeline-for-react-application-part2-3ffffbbdb0e9?source=rss-40f27c1248c3------2)
-- [Mini Project: Gitlab CI/CD Pipeline For React Application | Part1](https://medium.com/@taufiqpsumarna/mini-proyek-gitlab-ci-cd-pipeline-for-react-application-part1-98e3499e77ad?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--Favorite Tech-->
