@@ -137,4 +137,5 @@ fi
 [My Homepage]: https://taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Landingpage"
 <!---
 [OLD Portfolio💟]: https://taufiqpsumarna.portfoliobox.net/
+[Wayback Machine]: https://web.archive.org/web/20240527083836/https://taufiqpsumarna.portfoliobox.net/
 -->
