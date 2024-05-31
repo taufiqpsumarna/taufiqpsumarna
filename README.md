@@ -1,4 +1,4 @@
-# :nerd_face::wave: Hello there! I'm Taufiq
+# :wave: Hello there! I'm Taufiq
 ### I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds
 
 <!--Bash Script-->
