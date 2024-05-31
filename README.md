@@ -34,7 +34,7 @@ fi
 
 - :office: &nbsp;I'm currently working at **[PT. IDStar Cipta Teknologi]**
 - :seedling: &nbsp;I’m currently learning **Cloud Infrastructures and DevOps related things**
-- :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS** and **Home-labbing a.k.a Self-Hosted Stuff**
+- :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS**, **HomeLab and Self-Hosted Stuff**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :incoming_envelope: &nbsp;Connect with me on **[LinkedIn]**
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
