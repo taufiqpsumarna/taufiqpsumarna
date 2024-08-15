@@ -1,19 +1,6 @@
 # :wave: Hello there! I'm Taufiq
 ### I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds
 
-<!--Bash Script-->
-```bash
-#!/bin/bash
-checkUser= cat /etc/passwd | grep you
-userName= You
-
-if command [!$checkUser | grep $userName] then
-  echo "👋 Hello there! I'm Taufiq"
-  echo "I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds"
-else 
-  echo "Hi $userName maybe we already know each other!"
-fi
-```
 <!--Profile Badge-->
 <p align="left">
   <a href="https://github.com/taufiqpsumarna/taufiqpsumarna">
@@ -29,6 +16,20 @@ fi
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/taufiqpsumarna?color=green&logo=github">
   </a>
 </p>
+
+<!--Bash Script-->
+```bash
+#!/bin/bash
+checkUser= cat /etc/passwd | grep you
+userName= You
+
+if command [!$checkUser | grep $userName] then
+  echo "👋 Hello there! I'm Taufiq"
+  echo "I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds"
+else 
+  echo "Hi $userName maybe we already know each other!"
+fi
+```
 
 <a href="#profile-title">
 
