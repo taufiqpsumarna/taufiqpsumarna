@@ -56,85 +56,21 @@ fi
 
 > Operating System, Tools, languages, and other things that I :love: to work with.
 
-### Cloud Platform
-<table>
-<td bgcolor="white">
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
-</td>
-</table>
-
-### Development Tools
-<table>
-<td bgcolor="white">
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</td>
-</table>
-
-### Operating System
-<table>
-<td bgcolor="white">
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />          
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
-</td>
-</table>  
-
-### Server Software Packages
-<table>
-<td bgcolor="white">
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</td>
-</table>
-
 <h2 align="left" id="profile-stats">Github Stats</h2>
-
-<table>
-<thead>
-  <tr>
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
-    </td>
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=taufiqpsumarna&show_icons=true&locale=en&theme=transparent" alt="Summary" />
-    </td>
-  </tr>
-</tbody>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
 <!--Credits-->
  ### Credit Notes
  - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
  - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:
  - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:
  
-  
 <!---Links -->
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [issues page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "taufiqpsumarna/issues"
 [linkedin]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
 [My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Portfolio"
-[My Homepage]: https://taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Landingpage"
+[My Homepage]: https://taufiqpsumarna.my.id/ "Taufiq's Landingpage"
 <!---
 [OLD Portfolio💟]: https://taufiqpsumarna.portfoliobox.net/
 [Wayback Machine]: https://web.archive.org/web/20240527083836/https://taufiqpsumarna.portfoliobox.net/
