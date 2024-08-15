@@ -54,7 +54,7 @@ fi
 <!--Favorite Tech-->
 <h2 align="left" id="profile-tech">My Favorite Tech</h2>
 
-> Operating System, Tools, languages, and other things that I :love: to work with.
+> Operating System, Tools, languages, and other things that I ♥️ to work with.
 
 <h2 align="left" id="profile-stats">Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
