@@ -40,10 +40,9 @@ fi
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
 - :bookmark: &nbsp;Or just visit my **[My Homepage]**
 
-<!--Github Stats>-->
+<!--Github Stats>
 [![Taufiq GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
+-->
 
 <!--Favorite Tech-->
 <h2 align="left" id="profile-tech">My Favorite Tech</h2>
