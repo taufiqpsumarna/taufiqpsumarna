@@ -40,6 +40,15 @@ fi
 - :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
 - :bookmark: &nbsp;Or just visit my **[My Homepage]**
 
+<!--Github Stats>-->
+[![Taufiq GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--Favorite Tech-->
+<h2 align="left" id="profile-tech">My Favorite Tech</h2>
+
+> Operating System, Tools, languages, and other things that I ♥️ to work with.
 
 ## Latest Medium Story
 
@@ -52,27 +61,20 @@ fi
 <!-- MEDIUM-STORY-LIST:END -->
 
 
-<!--Github Stats>-->
-[![Taufiq GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--Favorite Tech-->
-<h2 align="left" id="profile-tech">My Favorite Tech</h2>
-
-> Operating System, Tools, languages, and other things that I ♥️ to work with.
-<!--Credits-->
- ### Credit Notes
- - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
- - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:
- - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:
- 
 <!---Links -->
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [issues page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "taufiqpsumarna/issues"
 [linkedin]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
 [My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Portfolio"
 [My Homepage]: https://taufiqpsumarna.my.id/ "Taufiq's Landingpage"
+
+<!--Credits
+ ### Credit Notes
+ - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
+ - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:
+ - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:
+-->
+
 <!---
 [OLD Portfolio💟]: https://taufiqpsumarna.portfoliobox.net/
 [Wayback Machine]: https://web.archive.org/web/20240527083836/https://taufiqpsumarna.portfoliobox.net/
