@@ -51,14 +51,13 @@ fi
 - [Run VS Code On Browser](https://medium.com/@taufiqpsumarna/run-vs-code-on-browser-b4320cc9d375?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
+
+<!--Github Stats>
+[![Taufiq GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--Favorite Tech-->
 <h2 align="left" id="profile-tech">My Favorite Tech</h2>
 
 > Operating System, Tools, languages, and other things that I ♥️ to work with.
-
-<h2 align="left" id="profile-stats">Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Langs"/>
 <!--Credits-->
  ### Credit Notes
  - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
