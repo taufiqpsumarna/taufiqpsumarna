@@ -53,11 +53,11 @@ fi
 ## Latest Medium Story
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Configure Grafana Alloy with Self-Hosted Prometheus and Loki Server](https://medium.com/@taufiqpsumarna/how-to-configure-grafana-alloy-with-self-hosted-prometheus-and-loki-server-cf4cb783eecf?source=rss-40f27c1248c3------2)
 - [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
 - [Apa itu Ansible?](https://medium.com/@taufiqpsumarna/apa-itu-ansible-69aa843f1dc8?source=rss-40f27c1248c3------2)
 - [DevSecOps: Securing Gitlab CI/CD Pipeline](https://medium.com/@taufiqpsumarna/devsecops-securing-gitlab-ci-cd-pipeline-7f4d38d70dd3?source=rss-40f27c1248c3------2)
 - [How to saving Gitlab runner cost up to 90% using AWS EC2 Spot instance](https://medium.com/@taufiqpsumarna/how-to-saving-gitlab-runner-cost-up-to-90-using-aws-ec2-spot-instance-e9999d08b866?source=rss-40f27c1248c3------2)
-- [Run VS Code On Browser](https://medium.com/@taufiqpsumarna/run-vs-code-on-browser-b4320cc9d375?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
