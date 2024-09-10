@@ -51,9 +51,9 @@ Here are some of the tools, technologies, and languages I love working with:
 <!-- MEDIUM-STORY-LIST:START -->
 - [Automating Docker Container Updates with Watchtower, AWS ECR, and Mattermost Notifications](https://medium.com/@taufiqpsumarna/automating-docker-container-updates-with-watchtower-aws-ecr-and-mattermost-notifications-ba12fb0a292a?source=rss-40f27c1248c3------2)
 - [How to Configure Grafana Alloy with Self-Hosted Prometheus and Loki Server](https://medium.com/@taufiqpsumarna/how-to-configure-grafana-alloy-with-self-hosted-prometheus-and-loki-server-cf4cb783eecf?source=rss-40f27c1248c3------2)
-- [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy (HTTPS)](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
+- [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
 - [Apa itu Ansible?](https://medium.com/@taufiqpsumarna/apa-itu-ansible-69aa843f1dc8?source=rss-40f27c1248c3------2)
-- [DevSecOps: Securing GitLab CI/CD Pipeline](https://medium.com/@taufiqpsumarna/devsecops-securing-gitlab-ci-cd-pipeline-7f4d38d70dd3?source=rss-40f27c1248c3------2)
+- [DevSecOps: Securing Gitlab CI/CD Pipeline](https://medium.com/@taufiqpsumarna/devsecops-securing-gitlab-ci-cd-pipeline-7f4d38d70dd3?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
