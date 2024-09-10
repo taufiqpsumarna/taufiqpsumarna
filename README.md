@@ -1,81 +1,82 @@
-# :wave: Hello there! I'm Taufiq
-### I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds
+---
 
-<!--Profile Badge-->
+# 👋 Hello there! I'm Taufiq
+
 <p align="left">
   <a href="https://github.com/taufiqpsumarna/taufiqpsumarna">
-    <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=taufiqpsumarna" alt="Profile Views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+    <img alt="Documentation" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
   <a href="https://stackoverflow.com/users/15878247">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15878247?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15878247?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/taufiqpsumarna?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/taufiqpsumarna?color=green&logo=github">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/taufiqpsumarna?color=green&logo=github">
   </a>
 </p>
 
-<!--Bash Script-->
-```bash
-#!/bin/bash
-checkUser= cat /etc/passwd | grep you
-userName= You
+### About Me
 
-if command [!$checkUser | grep $userName] then
-  echo "👋 Hello there! I'm Taufiq"
-  echo "I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds"
-else 
-  echo "Hi $userName maybe we already know each other!"
-fi
-```
+- 💼 &nbsp;Currently working at **[PT. IDStar Cipta Teknologi]**
+- 🌱 &nbsp;I’m currently expanding my knowledge in **Cloud Infrastructure** and **DevOps technologies**
+- 💬 &nbsp;I love discussing topics related to **Automation**, **Cybersecurity**, **Open Source Software (OSS)**, **HomeLabs**, and **Self-Hosting Solutions**
+- 📫 &nbsp;Feel free to reach out to me via **[My Issues Page]** or connect on **[LinkedIn]**
+- 💻 &nbsp;Check out my works on **[My Portfolio]** or visit **[My Homepage]**
 
-<a href="#profile-title">
+---
 
-- :office: &nbsp;I'm currently working at **[PT. IDStar Cipta Teknologi]**
-- :seedling: &nbsp;I’m currently learning **Cloud Infrastructures and DevOps related things**
-- :speech_balloon: &nbsp;I like to talk about **Automation**, **Cybersecurity**, **OSS**, **HomeLab and Self-Hosted Stuff**
-- :mailbox: &nbsp;Ask me anything on my **[Issues page]**
-- :incoming_envelope: &nbsp;Connect with me on **[LinkedIn]**
-- :framed_picture: &nbsp;You can check my works at **[My Portfolio]**
-- :bookmark: &nbsp;Or just visit my **[My Homepage]**
+## 📊 GitHub Stats
 
-<!--Github Stats>
-[![Taufiq GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Taufiq's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=taufiqpsumarna&show_icons=true&locale=en&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--Favorite Tech-->
-<h2 align="left" id="profile-tech">My Favorite Tech</h2>
+---
 
-> Operating System, Tools, languages, and other things that I ♥️ to work with.
+## 🛠️ My Favorite Tech
 
-## Latest Medium Story
+Here are some of the tools, technologies, and languages I love working with:
+
+- **Operating Systems**: Linux (Ubuntu, CentOS), Windows Server
+- **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible, Jenkins
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Monitoring**: Prometheus, Grafana, Loki
+- **Languages**: Bash, Python, YAML, Go
+- **Networking**: Cisco, pfSense, Ubiquiti, VLANs, Firewalls
+
+---
+
+## 📖 Latest Medium Articles
 
 <!-- MEDIUM-STORY-LIST:START -->
 - [Automating Docker Container Updates with Watchtower, AWS ECR, and Mattermost Notifications](https://medium.com/@taufiqpsumarna/automating-docker-container-updates-with-watchtower-aws-ecr-and-mattermost-notifications-ba12fb0a292a?source=rss-40f27c1248c3------2)
 - [How to Configure Grafana Alloy with Self-Hosted Prometheus and Loki Server](https://medium.com/@taufiqpsumarna/how-to-configure-grafana-alloy-with-self-hosted-prometheus-and-loki-server-cf4cb783eecf?source=rss-40f27c1248c3------2)
-- [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
+- [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy (HTTPS)](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
 - [Apa itu Ansible?](https://medium.com/@taufiqpsumarna/apa-itu-ansible-69aa843f1dc8?source=rss-40f27c1248c3------2)
-- [DevSecOps: Securing Gitlab CI/CD Pipeline](https://medium.com/@taufiqpsumarna/devsecops-securing-gitlab-ci-cd-pipeline-7f4d38d70dd3?source=rss-40f27c1248c3------2)
+- [DevSecOps: Securing GitLab CI/CD Pipeline](https://medium.com/@taufiqpsumarna/devsecops-securing-gitlab-ci-cd-pipeline-7f4d38d70dd3?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
+---
 
-<!---Links -->
+### 💡 Credits
+
+- Inspired by [MacroPower](https://github.com/MacroPower)'s profile ✨
+- Using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to display my GitHub stats 📊
+- Leveraging [Skill Icons](https://github.com/tandpfun/skill-icons) for my tech stack badges 🎨
+
+---
+
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
-[issues page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "taufiqpsumarna/issues"
-[linkedin]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
-[My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Taufiq's Portfolio"
-[My Homepage]: https://taufiqpsumarna.my.id/ "Taufiq's Landingpage"
+[My Issues Page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "Issues Page"
+[LinkedIn]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
+[My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Portfolio"
+[My Homepage]: https://taufiqpsumarna.my.id/ "Homepage"
 
-<!--Credits
- ### Credit Notes
- - I'm get inspired from [MacroPower](https://github.com/MacroPower) Github profile :sparkles:
- - Using this awesome [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for showing Github Stats card :card_index:
- - Using this awesome [Skill Icon](https://github.com/tandpfun/skill-icons) for showing my skills badge :sunglasses:
--->
+---
+
 
 <!---
+Notes:
 [OLD Portfolio💟]: https://taufiqpsumarna.portfoliobox.net/
 [Wayback Machine]: https://web.archive.org/web/20240527083836/https://taufiqpsumarna.portfoliobox.net/
 -->
