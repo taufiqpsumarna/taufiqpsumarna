@@ -49,11 +49,11 @@ Here are some of the tools, technologies, and languages I love working with:
 ## 📖 Latest Medium Articles
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Effortless CI/CD: Integrating ArgoCD into Kubernetes Workflows](https://medium.com/@taufiqpsumarna/effortless-ci-cd-integrating-argocd-into-kubernetes-workflows-a36d3301fe71?source=rss-40f27c1248c3------2)
 - [Seamless Development on Windows 11 with WSL 2.3 and Ubuntu 24.04.1 LTS](https://medium.com/@taufiqpsumarna/seamless-development-on-windows-11-with-wsl-2-3-and-ubuntu-24-04-1-lts-afe891a3b18f?source=rss-40f27c1248c3------2)
 - [Automating Docker Container Updates with Watchtower, AWS ECR, and Mattermost Notifications](https://medium.com/@taufiqpsumarna/automating-docker-container-updates-with-watchtower-aws-ecr-and-mattermost-notifications-ba12fb0a292a?source=rss-40f27c1248c3------2)
 - [How to Configure Grafana Alloy with Self-Hosted Prometheus and Loki Server](https://medium.com/@taufiqpsumarna/how-to-configure-grafana-alloy-with-self-hosted-prometheus-and-loki-server-cf4cb783eecf?source=rss-40f27c1248c3------2)
 - [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
-- [Apa itu Ansible?](https://medium.com/@taufiqpsumarna/apa-itu-ansible-69aa843f1dc8?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
