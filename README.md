@@ -23,7 +23,7 @@
 - 🌱 &nbsp;I’m currently expanding my knowledge in **Cloud Infrastructure** and **DevOps technologies**
 - 💬 &nbsp;I love discussing topics related to **Automation**, **Cybersecurity**, **Open Source Software (OSS)**, **HomeLabs**, and **Self-Hosting Solutions**
 - 📫 &nbsp;Feel free to reach out to me via **[My Issues Page]** or connect on **[LinkedIn]**
-- 💻 &nbsp;Check out my works on **[My Portfolio]** or visit **[My Homepage]**
+- 💻 &nbsp;Check out my works on **[Personal Web]**
 
 ---
 
@@ -55,22 +55,13 @@ Here are some of the tools, technologies, and languages I love working with:
 - [How to Configure Grafana Alloy with Self-Hosted Prometheus and Loki Server](https://medium.com/@taufiqpsumarna/how-to-configure-grafana-alloy-with-self-hosted-prometheus-and-loki-server-cf4cb783eecf?source=rss-40f27c1248c3------2)
 - [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
-
----
-
-### 💡 Credits
-
-- Inspired by [MacroPower](https://github.com/MacroPower)'s profile ✨
-- Using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to display my GitHub stats 📊
-- Leveraging [Skill Icons](https://github.com/tandpfun/skill-icons) for my tech stack badges 🎨
-
 ---
 
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [My Issues Page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "Issues Page"
 [LinkedIn]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
-[My Portfolio]: https://about.taufiqpsumarna.my.id/showcase/portofolio "Portfolio"
-[My Homepage]: https://taufiqpsumarna.my.id/ "Homepage"
+[Portfolio]: https://taufiqpsumarna.my.id/portfolio/ "Portfolio"
+[Blog]: https://taufiqpsumarna.my.id/blog/ "Blog"
 
 ---
 
