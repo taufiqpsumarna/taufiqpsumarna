@@ -23,7 +23,8 @@
 - 🌱 &nbsp;I’m currently expanding my knowledge in **Cloud Infrastructure** and **DevOps technologies**
 - 💬 &nbsp;I love discussing topics related to **Automation**, **Cybersecurity**, **Open Source Software (OSS)**, **HomeLabs**, and **Self-Hosting Solutions**
 - 📫 &nbsp;Feel free to reach out to me via **[My Issues Page]** or connect on **[LinkedIn]**
-- 💻 &nbsp;Check out my works on **[Personal Web]**
+- 💻 &nbsp;Check out my works on **[Portfolio]**
+- ✍️ &nbsp;Check out my latest blog on **[Blog]**
 
 ---
 
