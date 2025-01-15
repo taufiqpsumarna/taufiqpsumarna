@@ -58,7 +58,7 @@ Here are some of the tools, technologies, and languages I love working with:
 
 ---
 
-## 🗺️ roadmap.sh Learning Tracker
+## 🗺️ Learning Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark)](https://roadmap.sh)
 
 ---
