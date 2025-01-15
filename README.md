@@ -57,7 +57,7 @@ Here are some of the tools, technologies, and languages I love working with:
 <!-- MEDIUM-STORY-LIST:END -->
 ---
 ## 🗺️ roadmap.sh learning path
-[![roadmap.sh](https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark" alt="roadmap.sh"/></a>
 
 ---
 
