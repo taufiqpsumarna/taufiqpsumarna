@@ -56,6 +56,10 @@ Here are some of the tools, technologies, and languages I love working with:
 - [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
 ---
+## 🗺️ roadmap.sh learning path
+[![roadmap.sh](https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark)](https://roadmap.sh)
+
+---
 
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [My Issues Page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "Issues Page"
