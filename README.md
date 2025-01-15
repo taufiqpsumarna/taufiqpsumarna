@@ -61,15 +61,12 @@ Here are some of the tools, technologies, and languages I love working with:
 ## 🗺️ Learning Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark)](https://roadmap.sh)
 
----
 
 [PT. IDStar Cipta Teknologi]: https://idstar.co.id "Company Website"
 [My Issues Page]: https://github.com/taufiqpsumarna/taufiqpsumarna/issues "Issues Page"
 [LinkedIn]: https://www.linkedin.com/in/taufiqpsumarna "Taufiq's LinkedIn"
 [Portfolio]: https://taufiqpsumarna.my.id/portfolio/ "Portfolio"
 [Blog]: https://taufiqpsumarna.my.id/blog/ "Blog"
-
----
 
 
 <!---
