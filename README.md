@@ -55,9 +55,11 @@ Here are some of the tools, technologies, and languages I love working with:
 - [How to Configure Grafana Alloy with Self-Hosted Prometheus and Loki Server](https://medium.com/@taufiqpsumarna/how-to-configure-grafana-alloy-with-self-hosted-prometheus-and-loki-server-cf4cb783eecf?source=rss-40f27c1248c3------2)
 - [Grafana Loki Setup Basic Auth Behind Nginx Reverse Proxy &lpar;HTTPS&rpar;](https://medium.com/@taufiqpsumarna/grafana-loki-setup-basic-auth-behind-nginx-reverse-proxy-https-0c19d4c20e09?source=rss-40f27c1248c3------2)
 <!-- MEDIUM-STORY-LIST:END -->
+
 ---
-## 🗺️ roadmap.sh learning path
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark" alt="roadmap.sh"/></a>
+
+## 🗺️ roadmap.sh Learning Tracker
+[![roadmap.sh](https://roadmap.sh/card/wide/67877781cb4271283bec7c52?variant=dark)](https://roadmap.sh)
 
 ---
 
